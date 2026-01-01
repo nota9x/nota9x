@@ -17,28 +17,29 @@
 ---
 
 <div align="center">
-  <h2>📊 Analytics</h2>
-  <a href="https://github.com/nota9x">
-    <img src="https://github-readme-stats.vercel.app/api?username=nota9x&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/nota9x">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nota9x&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </a>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nota9x&theme=dark&hide_border=true&background=0d1117" alt="Streak" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
   <h2>🛡️ <a href="https://hapara.fail">hapara.fail</a></h2>
   <p><b>Privacy tools and resources for the managed student.</b></p>
   <p>
     hapara.fail is an open-source initiative dedicated to exposing and neutralizing the pervasive nature of student surveillance technology.
   </p>
 </div>
+
+<br/>
+
+<h3 align="center">🛠️ The Toolkit</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+---
 
 ### 🔭 Core Projects
 
@@ -61,6 +62,5 @@ All our work is open source and licensed under the **GNU GPLv3**. We believe in 
 
 ---
 
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nota9x&label=Profile%20Views&color=blueviolet&style=flat-square" alt="views" />
-</p>
+</div>
