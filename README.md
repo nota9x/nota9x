@@ -14,12 +14,6 @@
   </a>
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nota9x&theme=flat&no-frame=true&margin-w=15" alt="nota9x" />
-  </a> 
-</p>
-
 ---
 
 <div align="center">
@@ -74,13 +68,6 @@ All our work is open source and licensed under the **GNU GPLv3**. We believe in 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nota9x&show_icons=true&locale=en&layout=compact" alt="nota9x" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nota9x&show_icons=true&locale=en" alt="nota9x" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nota9x&" alt="nota9x" />
-  
-  <br/><br/>
-  
+
   <img src="https://komarev.com/ghpvc/?username=nota9x&label=Profile%20Views&color=blueviolet&style=flat-square" alt="views" />
 </div>
