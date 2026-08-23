@@ -1,71 +1,148 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Good+enough+is+not+enough.;nota9x;Founder+of+hapara.fail" alt="Typing SVG" />
+  hey!<br>
+  <sub>i'm a9x</sub>
 </h1>
 
 <p align="center">
-  <a href="https://a9x.pro">
-    <img src="https://img.shields.io/badge/Website-a9x.pro-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/hapara-fail">
-    <img src="https://img.shields.io/badge/Org-hapara.fail-ff0000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-   <a href="https://www.buymeacoffee.com/hapara.fail">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=600&lines=building+software+that+feels+intentional.;open+source+contributor.;web+developer+%2F+native+software+enjoyer.;probably+polishing+something+that+already+works."
+    alt="Typing SVG"
+  />
 </p>
 
----
-
-<div align="center">
-  <h2>🛡️ <a href="https://hapara.fail">hapara.fail</a></h2>
-  <p><b>Privacy tools and resources for the managed student.</b></p>
-  <p>
-    hapara.fail is an open-source initiative dedicated to exposing and neutralizing the pervasive nature of student surveillance technology.
-  </p>
-</div>
-
-<br/>
-
-<h3 align="center">🛠️ The Toolkit</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/open_source-♥-18181b?style=flat-square&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/license-GPLv3-18181b?style=flat-square&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/native_%3E_wrapper-always-18181b?style=flat-square" />
 </p>
 
----
+<br>
 
-### 🔭 Core Projects
+### `about me`
 
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **[Website](https://github.com/hapara-fail/website)** | The source code for our platform, built on Cloudflare Workers. Hosts our privacy tools, blog, and documentation. | [View](https://www.hapara.fail) |
-| **[Blocklist](https://github.com/hapara-fail/blocklist)** | A unified, community-maintained DNS blocklist designed to neutralize surveillance, filtering, and tracking software. | [View](https://cdn.jsdelivr.net/gh/hapara-fail/blocklist@main/blocklist.txt) |
+I build software with an unreasonable amount of attention to the little things.
 
-### 🤝 Philosophy & Support
+Most of my work lives somewhere between **modern web development**, **backend systems**, **cloud infrastructure**, and occasionally wondering why a desktop application needs an entire browser engine to render three buttons.
 
-> "We believe that privacy is a right, not a privilege."
+I'm especially comfortable with **Node.js**, **TypeScript**, **Astro**, **Svelte** and **SvelteKit**, and I spend a lot of time around platforms like **Cloudflare** and **Google Cloud**.
 
-All our work is open source and licensed under the **GNU GPLv3**. We believe in transparency and the freedom to inspect the code that runs on your devices.
+I contribute to various open-source projects and publish my own work under the **GNU GPLv3**. I like software that users can inspect, modify, improve, and actually own.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/License-GPLv3-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Privacy-100%25-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloudflare-Workers-orange?style=flat-square&logo=cloudflare" />
+I'm also a perfectionist.
+
+That is occasionally a very useful trait.
+
+Occasionally.
+
+<br>
+
+### `stack`
+
+**languages & runtimes**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-18181b?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
 </p>
 
----
+**web**
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Svelte-18181b?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+  <img src="https://img.shields.io/badge/SvelteKit-18181b?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+  <img src="https://img.shields.io/badge/Astro-18181b?style=for-the-badge&logo=astro&logoColor=BC52EE" />
+  <img src="https://img.shields.io/badge/HTML5-18181b?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-18181b?style=for-the-badge&logo=css&logoColor=663399" />
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=nota9x&label=Profile%20Views&color=blueviolet&style=flat-square" alt="views" />
-</div>
+**cloud & infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-18181b?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
+  <img src="https://img.shields.io/badge/Google_Cloud-18181b?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/PostgreSQL-18181b?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Linux-18181b?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-18181b?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+</p>
+
+<br>
+
+### `principles.txt`
+
+```text
+software should feel fast.
+interfaces should feel intentional.
+complexity should justify its existence.
+open source should stay open.
+native code > chromium wrappers, when it makes sense.
+
+"good enough" is usually where the polishing starts.
+```
+
+<br>
+
+### `open source`
+
+Open source is a pretty fundamental part of how I learned to build software, so I try to return the favor.
+
+I contribute **fixes, features, cleanup, documentation, and the occasional strongly-held opinion** across projects I use and care about.
+
+My own projects are licensed under **GPLv3** — if you use the software, you should have the freedom to understand it, change it, and improve it.
+
+<p>
+  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
+    <img src="https://img.shields.io/badge/free_as_in_freedom-GPL--3.0-18181b?style=flat-square&logo=gnu&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+### `what i care about`
+
+```diff
++ fast software
++ thoughtful interfaces
++ maintainable code
++ open standards
++ native applications
++ boring infrastructure that works
++ details most people will never notice
+
+- unnecessary abstraction
+- 400 MB desktop apps for a settings panel
+- "we'll clean it up later"
+- shipping things that feel unfinished
+```
+
+<br>
+
+### `github`
+
+<details>
+<summary><code>numbers, if you're into that sort of thing</code></summary>
+
+<br>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=nota9x&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nota9x&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e"
+  />
+</p>
+
+</details>
+
+<br>
+<br>
+
+<p align="center">
+  <sub>
+    building things carefully · breaking things methodically · polishing things excessively
+  </sub>
+</p>
