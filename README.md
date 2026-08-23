@@ -128,11 +128,8 @@ My own projects are licensed under **GPLv3** — if you use the software, you sh
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=nota9x&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nota9x&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e"
+    src="./assets/github-stats.svg"
+    alt="GitHub stats"
   />
 </p>
 
@@ -143,6 +140,6 @@ My own projects are licensed under **GPLv3** — if you use the software, you sh
 
 <p align="center">
   <sub>
-    building things carefully · breaking things methodically · polishing things excessively
+    shipping software i'd actually want to use
   </sub>
 </p>
