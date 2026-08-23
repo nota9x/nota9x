@@ -60,5 +60,5 @@ jobs:
 
           git add assets/github-stats.svg README.md
 
-          git diff --cached --quiet || git commit -m "chore: update profile stats"
+          git diff --cached --quiet || git commit -m "chore(stats): update profile stats svg"
           git push
