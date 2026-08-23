@@ -1,8 +1,15 @@
 name: Update GitHub stats
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "assets/github-stats.svg"
+
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "17 3 * * *"
+
   workflow_dispatch:
 
 permissions:
