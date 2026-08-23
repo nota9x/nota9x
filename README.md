@@ -1,7 +1,6 @@
-<h1 align="center">
-  hey!<br>
-  <sub>i'm a9x</sub>
-</h1>
+<p align="center"> <sub>hey!</sub> </p>
+
+<h1 align="center">i'm a9x</h1>
 
 <p align="center">
   <img

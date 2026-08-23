@@ -1,0 +1,25 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended",
+    "helpers:pinGitHubActionDigests"
+  ],
+  "enabledManagers": [
+    "github-actions"
+  ],
+  "dependencyDashboard": false,
+  "packageRules": [
+    {
+      "description": "Maintain profile GitHub Actions",
+      "matchManagers": [
+        "github-actions"
+      ],
+      "matchPackageNames": [
+        "actions/checkout",
+        "stats-organization/github-readme-stats-action"
+      ],
+      "automerge": true,
+      "automergeType": "pr"
+    }
+  ]
+}
