@@ -138,7 +138,7 @@ My own projects are licensed under **GPLv3** — if you use the software, you sh
 <br>
 
 <p align="center">
-  <sub>
-    shipping software i'd actually want to use
-  </sub>
+  <a href="https://we.are.slowly.perish.ing/contact/">
+    <img src="./assets/hire-me.svg" alt="hire me" height="16" />
+  </a>
 </p>
