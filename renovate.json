@@ -19,7 +19,7 @@
         "actions/checkout",
         "stats-organization/github-readme-stats-action"
       ],
-      "automerge": true,
+      "automerge": false,
       "automergeType": "pr"
     }
   ]
