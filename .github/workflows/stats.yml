@@ -13,15 +13,21 @@ on:
 
   workflow_dispatch:
 
-permissions:
-  contents: write
+concurrency:
+  group: github-stats
+  cancel-in-progress: false
 
 jobs:
   stats:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Generate stats
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
@@ -32,33 +38,18 @@ jobs:
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           fail_on_error: true
 
-      - name: Bust README image cache
-        run: |
-          python - <<'PY'
-          import os
-          import re
-          from pathlib import Path
-
-          path = Path("README.md")
-          text = path.read_text()
-
-          run_id = os.environ["GITHUB_RUN_ID"]
-
-          text = re.sub(
-              r'assets/github-stats\.svg\?v=[^"]+',
-              f'assets/github-stats.svg?v={run_id}',
-              text,
-          )
-
-          path.write_text(text)
-          PY
-
       - name: Commit updated stats
         run: |
+          if git diff --quiet -- assets/github-stats.svg; then
+            echo "Stats have not changed."
+            exit 0
+          fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add assets/github-stats.svg README.md
+          git add assets/github-stats.svg
+          git commit -m "chore(stats): update profile stats"
 
-          git diff --cached --quiet || git commit -m "chore(stats): update profile stats svg"
+          git pull --rebase origin main
           git push
